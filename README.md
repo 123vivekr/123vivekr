@@ -1,7 +1,7 @@
 ### Hello World! 👋
 Welcome to my page!
 
-- I'm an Application Developer at ThoughtWorks.
+- I'm an Infrastructure Consultant at ThoughtWorks.
 - I'm currently working on open source projects in the cloud domain.
 - Learning about blockchain.
 - Do reach out to me for help or guidance. I'm more than happy to help.
