@@ -6,6 +6,6 @@ A bit about me
 - Exploring Rust and building hobby projects, by night.
 - I'm passionate about sustainable software development, scalable infrastructure and security.
 - Langauges: Rust 🦀, Golang, Python, JavaScript, Golang and Java.
-- [Twitter](https://twitter.com/theroyalkonkani).
+- Reach me here: [twitter](https://twitter.com/theroyalkonkani).
 
 Oh, and do check out my blog [here](https://123vivekr.github.io/)
