@@ -2,7 +2,7 @@
 
 A bit about me
 
-- Infrastructure Consultant at [ThoughtWorks](https://www.thoughtworks.com/), by day.
+- Designing reliable, secure and FT systems at [Chorus One](https://chorus.one/) by day.
 - Exploring Rust and building hobby projects, by night.
 - I'm passionate about sustainable software development, scalable infrastructure and security.
 - Langauges: Rust 🦀, Golang, Python, JavaScript, Golang and Java.
