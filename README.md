@@ -2,7 +2,7 @@
 
 A bit about me
 
-- Designing reliable, secure and FT systems at [Chorus One]([https://chorus.one/](https://github.com/ChorusOne/)) by day.
+- Designing reliable, secure and FT systems at [Chorus One](https://github.com/ChorusOne/) by day.
 - Exploring Rust and building hobby projects, by night.
 - I'm passionate about sustainable software development, scalable infrastructure and security.
 - Langauges: Rust 🦀, Golang, Python, JavaScript, Golang and Java.
