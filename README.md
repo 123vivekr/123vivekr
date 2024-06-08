@@ -9,3 +9,6 @@ A bit about me
 - Reach me here: [linktr.ee](https://linktr.ee/123vivekr).
 
 Oh, and do check out my blog [here](https://123vivekr.github.io/)
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-repeat: repeat; background-size: 10vw 10vw; width: 100vw; opacity: 0.3; background: url('https://raw.githubusercontent.com/123vivekr/123vivekr/main/shape.gif');]{x0000}$}
